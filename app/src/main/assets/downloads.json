@@ -78,10 +78,10 @@
       "samsung"
     ],
     "device": [
-      "SM-G900T",
+      "SM-G955f",
       "kltetmo"
     ],
-    "link": "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/download/sm-g900t.json"
+    "link": "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/download/sm-g955f.json"
   },
   {
     "vendor": [
@@ -264,7 +264,7 @@
       "heroltexx",
       "hero2ltexx"
     ],
-    "link": "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/download/galaxys7.json"
+    "link": "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/download/galaxys8.json"
   },
   { 
     "vendor": [
